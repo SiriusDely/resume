@@ -21,7 +21,7 @@ mail @ [siriusdely.com](https://siriusdely.com)
   
 - **Founding & Head of Mobile Team, [suitmedia.com](http://www.suitmedia.com), 2010 - 2014**
   <br>_Develop mobile apps, gather team members._
-  <br>Objective-C, C/C++, Cocos2D, Django
+  <br>Objective-C iOS, C/C++, Android Java, Cocos2D, Django
 
 ## Education
 - Master of Engineering in Digital Media & Game Technology, Institut Teknologi Bandung, 2009 - 2010
