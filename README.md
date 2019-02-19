@@ -1,5 +1,3 @@
-[raw.txt](https://raw.githubusercontent.com/siriusdely/resume/master/README.md)
-
 # Sirius Dely
 
 A curious software engineer who has quite diverse experience, both in software development and team management, has been working remotely ever since.
