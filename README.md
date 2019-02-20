@@ -17,7 +17,7 @@ mail @ [siriusdely.com](https://siriusdely.com)
   
 - **Software Engineer, [2359media Pte Ltd](http://www.2359media.com), 2014 - 2016**
   <br>_Develop mobile and backend apps, gather team members._
-  <br>RoR, Javascript, Postgres, Mongo, Redis, Ubuntu
+  <br>Rails, Javascript, Postgres, Mongo, Redis, Ubuntu
   
 - **Founding & Head of Mobile Team, [suitmedia.com](http://www.suitmedia.com), 2010 - 2014**
   <br>_Develop mobile apps, gather team members._
@@ -40,12 +40,12 @@ mail @ [siriusdely.com](https://siriusdely.com)
 - [node-opusfile](https://github.com/siriusdely/node-opusfile) (Nodejs, C/C++)
 
 ## Personal Project
-- [ScrumBy](https://scrumby.herokuapp.com) (RoR & React) [repo](https://github.com/siriusdely/scrumb)
-- [CUIS](https://cuis.herokuapp.com) (RoR) [repo](https://github.com/siriusdely/cuis)
+- [ScrumBy](https://scrumby.herokuapp.com) (Rails & React) [repo](https://github.com/siriusdely/scrumb)
+- [CUIS](https://cuis.herokuapp.com) (Rails) [repo](https://github.com/siriusdely/cuis)
 - [2014 Indonesian General Election Using D3.js](https://siriusdely.com/2014-indonesian-general-election-d3js) ([siriusdely.com/pilu](https://siriusdely.com/pilu)) [repo](https://github.com/siriusdely/pilu)
 - [Messenger Bot Quickstart in Golang](https://siriusdely.com/messenger-bot-quickstart-in-golang): [repo](https://github.com/siriusdely/go-messenger-bot)
 - Rubygems: [BCA](https://github.com/siriusdely/BCA), [raja_ongkir](https://github.com/siriusdely/raja_ongkir)
 - Pancasila.co (Django, Scrapy, Docker)
-- HyJek.co (Golang, Docker)
+- HyJek.co (Rails, Golang, Docker)
 - Syrilo.com (Phoenix Elixir, Docker)
 - [AdiKatolik](https://play.google.com/store/apps/details?id=id.siriusdely.adikatolik) (React Native, Nodejs, Docker, Letsencrypt)
