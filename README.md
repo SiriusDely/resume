@@ -9,6 +9,7 @@ mail @ [siriusdely.com](https://siriusdely.com)
 <br>twitter: [@siriusdely](https://www.twitter.com/siriusdely)
 <br>[github.com/siriusdely](https://www.github.com/siriusdely)
 <br>[linkedin.com/in/siriusdely](https://www.linkedin.com/in/siriusdely)
+<br>[hackerrank.com/siriusdely](https://www.hackerrank.com/siriusdely)
 
 ## Employment
 - **Software Engineer, [Smart Walkie Pte Ltd](https://www.smartwalkie.com), 2017 - Present**
